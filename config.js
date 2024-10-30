@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['33775804415', '꧁ღツsakuraiツღ꧂', true],
-  ['33783453841', 'THIBAULT', true], 
+  ['237683591859', 'THIBAULT', true], 
   [''] 
 ] //Number of owners
 
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = '꧁ÐĚӍ҉Ǿ₦︻ȺŠ₮Ⱥ꧂'
 global.premium = 'false'
 global.packname = '꧁ღツsakuraiツღ꧂' 
-global.author = '@sakurai' 
+global.author = '@DARK SAD' 
 global.menuvid = 'https://imgur.com/a/fOx6eBC'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
